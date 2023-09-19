@@ -1,3 +1,7 @@
+# Author
+This is a copy of specific state of repository https://github.com/robidev/iec61850_open_server/
+We are not authors. Thank you, robidev!
+
 # IEC61850_open_server
 An implementation of an IED using the libiec61850 library.
 
